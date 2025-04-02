@@ -55,4 +55,4 @@ I'm always interested in challenging problems and innovative projects. Feel free
 
 ---
 
-<!-- Choose one of these quotes for your profile -->
+*"The only way to do great work is to love what you do." — Steve Jobs, Apple Co-founder*
