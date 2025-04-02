@@ -4,9 +4,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-danilocalvise-1DA1F2)](https://x.com/danilocalvise)
 [![Location](https://img.shields.io/badge/Location-Miami%2C%20FL-orange)](https://www.google.com/maps/place/Miami)
 
-## 💼 Chief Innovation Officer & Cloud Architect
+## 💼 Technology & Innovation Leader
 
-I'm a technical leader with 14+ years of experience building scalable systems and leading cross-functional teams across multiple geographies. Currently serving as Chief Innovation Officer, where I drive technical innovation and business strategy to create scalable financial products.
+I'm a technical leader with decades of experience building scalable systems and leading cross-functional teams across multiple geographies I specialize in architecting, developing, and deploying innovative platforms and products based on multi-tenant Cloud Data Services where I leverage Big Data Analytics, AI, Technological Innovation and Critical Thinking.
 
 ## 🚀 Professional Summary
 
